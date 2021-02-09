@@ -70,6 +70,8 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 * Fonts
    
 * Icons
+   I used icaon from the [Font Awesome library](https://fontawesome.com/ "Font Awesome") the icons I chose are inline with the over all feel for the site and are gneral industry standard.
+   The icons have been selected so as not to stand out from the site but to add to the overall eas of use for the user enabling intuitve navigation.
 
 * Colours
 
@@ -83,7 +85,7 @@ Thank you for visiting my project, if you have ant questions or feedback please 
   * #87BBA2 will be used for the call to action buttons on the website as well as the contact form, this light green tone has been selected for its closenesss to the mpprland grasses in the local landscape.
   * #C9E4CA text color
   * #55828B additional background color
-  
+
 ### Wireframes
 
 ### Features 
