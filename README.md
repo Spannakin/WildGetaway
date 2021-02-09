@@ -61,8 +61,16 @@ Thank you for visiting my project, if you have ant questions or feedback please 
   * Clear information about location and facilities
   * Website works in line with the customer journey
   * Feedback is provided that forms have been entered and completed correctly
-  
+
 ### Design Choices
+* Overview
+   As this site is for a Pod campsite in a rural location the colour scheme and visuals have been chosen to reflect a more narual palette, keeping a more rustic aesthetic.
+* Fonts
+
+* Icons
+
+* Colours
+
 
 ### Wireframes
 
