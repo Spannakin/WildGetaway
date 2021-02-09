@@ -64,13 +64,16 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 ### Design Choices
 * Overview
-   As this site is for a Pod campsite in a rural location the colour scheme and visuals have been chosen to reflect a more narual palette, keeping a more rustic aesthetic.
-* Fonts
 
+   As this site is for a Pod campsite in a rural location the colour scheme and visuals have been chosen to reflect a more narual palette, keeping a more rustic aesthetic.  
+
+* Fonts
+   
 * Icons
 
 * Colours
 
+![Color Palette](wireframes/color_scheme.png)
 
 ### Wireframes
 
