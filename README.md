@@ -8,29 +8,40 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 ### Table of Contents
 
 ---
-##User Experience
+## User Experience
 
-###Site Owner Goals
+### Site Owner Goals
+* To advertise site and facilities available
+* Relevent content about the holiday site
+* Easy way for visitors to contact the holiday site
+* Clear information on pricing and booking relevent policies for stays
+* Appealing visiual elements
+* links to review sites and social media to engage with audience
+* link for email sign up
 
-###User Goals
+### User Goals
 
-###User Stories
+### User Stories
 
-###User Requirements and Expectations
-*Requirements
-*Expectations
+### User Requirements and Expectations
+* Requirements
+* Expectations
 
-###Design Choices
+### Design Choices
 
-###Wireframes
+### Wireframes
 
-###Features- existing features & features to be implemented
+### Features 
+* existing features  
+* features to be implemented
 
-###Technologies used- languages, libraries, etc.
+### Technologies used
+* languages
+* libraries
 
-###Testing
+### Testing
 
-###Deployment
+### Deployment
 
-###Credits
+### Credits
 
