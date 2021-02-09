@@ -20,6 +20,15 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 * link for email sign up
 
 ### User Goals
+* Website should be easy to use on desktop, tablet and mobile
+* Website is filled with valuable/ relevnet contenet
+* Contact details are easy to find
+* Pricing and policies are clear and easy to find
+* Form to contact owners directly from Website
+* creative calls to action
+* Form to sign up for updates from site
+* Social reviews- testamonials and links to social media
+* Information about the holiday site, what to expect upon arrival, facilities available
 
 ### User Stories
 
