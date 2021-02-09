@@ -1,4 +1,4 @@
-# WildGetaway
+# Wild Getaway
 Book your Wild Get Away! Take some time out and embrace nature, stay in one of our luxury Camping Pods and get away for a short break in the wild.
 On this site you can find all the information you need to make a booking and find relevent visitor information.
 
@@ -31,6 +31,21 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 * Information about the holiday site, what to expect upon arrival, facilities available
 
 ### User Stories
+
+* As a user, I want to be able to easily access contact information for the holiday site
+* As a user, I want to be able to contact the site directly from the website
+* As a user, I want to be able to easily find the information for booking a stay
+* As a user, I want to find the information about check in and check out policies
+* As a user, I want images of the accomodation and site
+* As a user, I want information about accesss and parking facilities
+* As a user, I want to see review and testamonials for the site
+* As a user, I want the website to be easy to navigate and simple to use
+* As a user, I want the website to be easy to use on tablets
+* As a user, I want the website to be intuitive to make booking easy
+* As a user, I want the website to be emotionally engaging to make me want to stay there
+* As a user, I want clear information about the facilities available and what I need to provide for myself
+* As a user, I want to know about the local landscape and wildlife that I may see during my stay
+* As a user, I want there to be social media links that open in a seperate page
 
 ### User Requirements and Expectations
 * Requirements
