@@ -73,8 +73,17 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 * Colours
 
+   The color scheme has been chosen to reflect the natural environment that the Pod campsite is situated in, the chosen colors can be view below.   
+   Below I will explain why each color was chosen and what they will be used for.   
+
 ![Color Palette](wireframes/color_scheme.png)
 
+  * #364958 will be used for the header and footer elements this charcoal color has been chosen to represent the night sky as the Pod site is situated within an international dark sky reserve.
+  * #3B6064 will be used as the main back ground color for the website. This dark teal color has been chosen to represent the forests that are local to the holiday site.
+  * #87BBA2 will be used for the call to action buttons on the website as well as the contact form, this light green tone has been selected for its closenesss to the mpprland grasses in the local landscape.
+  * #C9E4CA text color
+  * #55828B additional background color
+  
 ### Wireframes
 
 ### Features 
