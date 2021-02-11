@@ -110,6 +110,10 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 [Desk Top Wireframe](wireframes/wild_getaway_desktop.png)
 
+[Tablet Wireframe](wireframes/wild_getaway_tablet.png)
+
+[Mobile Wireframe](wireframes/wild_getaway_mobile.png)
+
 ### Features 
 * existing features  
 * features to be implemented
