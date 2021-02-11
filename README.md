@@ -12,13 +12,7 @@ Thank you for visiting my project, if you have ant questions or feedback please 
     * [User Goals](#user-goals)
     * [User Stories](#user-stories)
     * [User Requirements and Expectations](#user-requirements-and-expectations)
-        * [Requirements](#requirements)
-        * [Expectations](#expectations)
     * [Design Choices](#design-choices)
-        * [Fonts](#fonts)
-        * [Icons](#icons)
-        * [Colors](#colors)
-        * [Structure](#structure)
 * [Wireframes](#wireframes)
 * [Features](#features)
     * [Existing Features](#existing-features)
@@ -96,8 +90,8 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 * Icons
    I used icaon from the [Font Awesome library](https://fontawesome.com/ "Font Awesome") the icons I chose are inline with the over all feel for the site and are gneral industry standard.
    The icons have been selected so as not to stand out from the site but to add to the overall eas of use for the user enabling intuitve navigation.
-
-* Colours
+   
+* Colors
 
    The color scheme has been chosen to reflect the natural environment that the Pod campsite is situated in, the chosen colors can be view below.   
    Below I will explain why each color was chosen and what they will be used for.   
