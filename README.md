@@ -129,6 +129,13 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 ### Wireframes
 
+   I decided to use [Balamiq Wrieframes](https://balsamiq.com/) to create my wireframes, starting with a basic wireframe for the desktop, them moved 
+   on to the tablet and mobile wireframes, to get and idea of how I wanted the layout to work at different media points. I decided to utilise a one page
+   sebsite for this project as this is widely used in the tourism industry for ease of use for the user. The website will also use a navigation bar to
+   make quick access available for users looking for particular information rather than having to scroll every time.
+
+   Wireframes can be view on the following links:
+
 [Desk Top Wireframe](wireframes/wild_getaway_desktop.png)
 
 [Tablet Wireframe](wireframes/wild_getaway_tablet.png)
