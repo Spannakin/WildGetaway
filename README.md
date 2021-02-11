@@ -108,6 +108,8 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 ### Wireframes
 
+[Desk Top Wireframe](wireframes/wild_getaway_desktop.png)
+
 ### Features 
 * existing features  
 * features to be implemented
