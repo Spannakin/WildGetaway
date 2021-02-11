@@ -5,10 +5,33 @@ On this site you can find all the information you need to make a booking and fin
 Thank you for visiting my project, if you have ant questions or feedback please head over to my Github contacts and get in touch.
 
 ---
-### Table of Contents
+## Table of contents 
+
+* [UX](#ux)
+    * [Site Owners Goals](#site-owners-goals)
+    * [User Goals](#user-goals)
+    * [User Stories](#user-stories)
+    * [User Requirements and Expectations](#user-requirements-and-expectations)
+        * [Requirements](#requirements)
+        * [Expectations](#expectations)
+    * [Design Choices](#design-choices)
+        * [Fonts](#fonts)
+        * [Icons](#icons)
+        * [Colors](#colors)
+        * [Structure](#structure)
+* [Wireframes](#wireframes)
+* [Features](#features)
+    * [Existing Features](#existing-features)
+    * [Features to be implemented](#features-to-be-implemented)
+* [Technologies used](#technologies-used)
+    * [Languages](#languages)
+    * [Tools and Libraries](#tools-and-libraries)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
 
 ---
-## User Experience
+## UX
 
 ### Site Owner Goals
 * To advertise site and facilities available
