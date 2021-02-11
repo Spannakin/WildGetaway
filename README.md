@@ -161,8 +161,12 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 <a></a>
 
 ### Technologies used
-* languages
-* libraries
+* Languages
+
+* Libraries & Frameworks
+  * [Font Awesome](https://fontawesome.com/)
+  * [Google Fonts](https://fonts.google.com/)
+  * [Bootstrap](https://getbootstrap.com/)
 
 [Back to Top](#table-of-contents)
 
