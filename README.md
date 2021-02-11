@@ -103,8 +103,14 @@ Thank you for visiting my project, if you have ant questions or feedback please 
    As this site is for a Pod campsite in a rural location the colour scheme and visuals have been chosen to reflect a more narual palette, keeping a more rustic aesthetic.  
 
 * Fonts
-   
+
+   To choose the appropriate fints for this project I visited [Google Fonts](https://fonts.google.com/) and browsed the various fonts available.
+   for the main content of the page I chose [Lato](https://fonts.google.com/?sort=popularity&preview.text=Wild%20Getaway!&preview.text_type=custom&sidebar.open=true&selection.family=Amatic+SC:wght@400;700&query=lato)
+   as it is a clear and easy to read font, making the page easily accessible for users. I chose [Amatic SC](https://fonts.google.com/specimen/Amatic+SC?sort=popularity&category=Handwriting&preview.text=Wild%20Getaway!&preview.text_type=custom&sidebar.open=true&selection.family=Amatic+SC:wght@400;700)
+   for the titles and subtitles as it is a handwriting style font to give the page a more natural feel and to add a more personal touch.   
+
 * Icons
+
    I used icaon from the [Font Awesome library](https://fontawesome.com/ "Font Awesome") the icons I chose are inline with the over all feel for the site and are gneral industry standard.
    The icons have been selected so as not to stand out from the site but to add to the overall eas of use for the user enabling intuitve navigation.
    
