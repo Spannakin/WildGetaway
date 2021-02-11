@@ -31,8 +31,9 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 * [Credits](#credits)
 
 ---
+<a name="UX"></a>
 ## UX
-
+<a></a>git add
 ### Site Owner Goals
 * To advertise site and facilities available
 * Relevent content about the holiday site
@@ -108,6 +109,8 @@ Thank you for visiting my project, if you have ant questions or feedback please 
   * #87BBA2 will be used for the call to action buttons on the website as well as the contact form, this light green tone has been selected for its closenesss to the mpprland grasses in the local landscape.
   * #C9E4CA text color
   * #55828B additional background color
+
+* Structure
 
 ### Wireframes
 
