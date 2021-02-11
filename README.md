@@ -18,8 +18,6 @@ Thank you for visiting my project, if you have ant questions or feedback please 
     * [Existing Features](#existing-features)
     * [Features to be implemented](#features-to-be-implemented)
 * [Technologies used](#technologies-used)
-    * [Languages](#languages)
-    * [Tools and Libraries](#tools-and-libraries)
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
