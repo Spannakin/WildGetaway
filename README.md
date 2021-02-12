@@ -128,7 +128,7 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
    Wireframes can be view on the following links:
 
-[Desk Top Wireframe](wireframes/wild_getaway_desktop.png)
+[Desktop Wireframe](wireframes/wild_getaway_desktop.png)
 
 [Tablet Wireframe](wireframes/wild_getaway_tablet.png)
 
