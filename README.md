@@ -22,11 +22,11 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 * [Deployment](#deployment)
 * [Credits](#credits)
 
-<a></a>
+
 ---
-<a name="UX"></a>
+
 ## UX
-<a></a>
+
 ### Site Owner Goals
 * To advertise site and facilities available
 * Relevent content about the holiday site
@@ -38,8 +38,6 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 [Back to Top](#table-of-contents)
 
-<a></a>
-
 ### User Goals
 * Website should be easy to use on desktop, tablet and mobile
 * Website is filled with valuable/ relevnet contenet
@@ -50,8 +48,6 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 * Form to sign up for updates from site
 * Social reviews- testamonials and links to social media
 * Information about the holiday site, what to expect upon arrival, facilities available
-
-<a></a>
 
 ### User Stories
 
@@ -72,8 +68,6 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 [Back to Top](#table-of-contents)
 
-<a></a>
-
 ### User Requirements and Expectations
 * Requirements
   * Easy to navigate using the navigation menu 
@@ -81,8 +75,6 @@ Thank you for visiting my project, if you have ant questions or feedback please 
   * Easy way to contact site
   * Visually appealing elements
   * Clear concise information about prices and policies
-
-<a></a>
 
 * Expectations
   * When clicking on external links the page will open in a sperate browser window
@@ -92,8 +84,6 @@ Thank you for visiting my project, if you have ant questions or feedback please 
   * Feedback is provided that forms have been entered and completed correctly
 
 [Back to Top](#table-of-contents)
-
-<a></a>
 
 ### Design Choices
 * Overview
@@ -129,8 +119,6 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 [Back to Top](#table-of-contents)
 
-<a></a>
-
 ### Wireframes
 
    I decided to use [Balamiq Wrieframes](https://balsamiq.com/) to create my wireframes, starting with a basic wireframe for the desktop, them moved 
@@ -148,15 +136,11 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 [Back to Top](#table-of-contents)
 
-<a></a>
-
 ### Features 
 * existing features  
 * features to be implemented
 
 [Back to Top](#table-of-contents)
-
-<a></a>
 
 ### Technologies used
 * Languages
@@ -168,22 +152,14 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 [Back to Top](#table-of-contents)
 
-<a></a>
-
 ### Testing
 
 [Back to Top](#table-of-contents)
-
-<a></a>
 
 ### Deployment
 
 [Back to Top](#table-of-contents)
 
-<a></a>
-
 ### Credits
 
 [Back to Top](#table-of-contents)
-
-<a></a>
