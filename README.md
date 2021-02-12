@@ -99,7 +99,7 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 * Icons
 
-   I used icaon from the [Font Awesome library](https://fontawesome.com/ "Font Awesome") the icons I chose are inline with the over all feel for the site and are gneral industry standard.
+   I used icons from the [Font Awesome library](https://fontawesome.com/ "Font Awesome") the icons I chose are inline with the over all feel for the site and are gneral industry standard.
    The icons have been selected so as not to stand out from the site but to add to the overall eas of use for the user enabling intuitve navigation.
    
 * Colors
