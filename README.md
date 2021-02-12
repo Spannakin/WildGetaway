@@ -69,14 +69,14 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 [Back to Top](#table-of-contents)
 
 ### User Requirements and Expectations
-* Requirements
+#### Requirements
   * Easy to navigate using the navigation menu 
   * Relevent information about holiday site
   * Easy way to contact site
   * Visually appealing elements
   * Clear concise information about prices and policies
 
-* Expectations
+#### Expectations
   * When clicking on external links the page will open in a sperate browser window
   * Expect that navigation links work correctly and go where they are supposed to
   * Clear information about location and facilities
