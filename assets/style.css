@@ -14,3 +14,17 @@ body {
 h1,h2,h3,h4 {
     font-family: "Amatic SC", sans-serif;
 }
+
+/*------images-------*/
+ #about-image {
+
+ }
+
+ #wildlife-image {
+
+ }
+
+ #wildlife-table {
+     float: center;
+
+ }
