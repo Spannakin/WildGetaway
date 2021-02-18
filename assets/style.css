@@ -14,3 +14,22 @@ body {
 h1,h2,h3,h4 {
     font-family: "Amatic SC", sans-serif;
 }
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/*------header-------*/
+
+.navbar a {
+    text-decoration: none;
+    color: #C9E4CA;
+}
+
+a:hover {
+    color:#87BBA2;
+}
+
+/*------padding and margins-------*/
