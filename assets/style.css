@@ -34,6 +34,15 @@ a:hover {
 
 /*------padding and margins-------*/
 
+.about-section {
+    padding-top:90px
+}
+
+.about-section h2 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
 /*------external links-------*/
 
 a {
