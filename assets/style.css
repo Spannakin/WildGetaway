@@ -33,3 +33,15 @@ a:hover {
 }
 
 /*------padding and margins-------*/
+
+/*------external links-------*/
+
+a {
+    text-decoration: none;
+    color: #C9E4CA;
+}
+
+#social-image {
+    line-height: 16em;
+    color: #C9E4CA;
+}
