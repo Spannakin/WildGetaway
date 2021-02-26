@@ -52,8 +52,6 @@ h3 {
 }
 
 
-
-
 /*------external links-------*/
 
 a {
@@ -62,6 +60,6 @@ a {
 }
 
 #social-image {
-    line-height: 16em;
+    font-size: 20px;
     color: #C9E4CA;
 }
