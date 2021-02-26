@@ -21,6 +21,10 @@ h1 {
     font-weight: bold;
 }
 
+#comment-icon {
+    font-size: 50px;
+}
+
 /*------header-------*/
 
 .navbar a {
@@ -60,6 +64,11 @@ a {
 }
 
 #social-image {
-    font-size: 20px;
+    line-height: 16em;
     color: #C9E4CA;
+}
+
+#social-icon {
+    font-size: 50px;
+    text-align: center;
 }
