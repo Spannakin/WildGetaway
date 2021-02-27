@@ -128,11 +128,11 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
    Wireframes can be view on the following links:
 
-[Desktop Wireframe](wireframes/wild_getaway_desktop.png)
+[Desktop Wireframe](wireframes/wild-getaway-desktop.png)
 
-[Tablet Wireframe](wireframes/wild_getaway_tablet.png)
+[Tablet Wireframe](wireframes/wild-getaway-tablet.png)
 
-[Mobile Wireframe](wireframes/wild_getaway_mobile.png)
+[Mobile Wireframe](wireframes/wild-getaway-mobile.png)
 
 [Back to Top](#table-of-contents)
 
