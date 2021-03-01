@@ -20,12 +20,18 @@ h1 {
     text-transform: uppercase;
     font-weight: bold;
 }
+
+a {
+    text-decoration: none;
+    color: #C9E4CA;
+}
+
 /*fonts*/
 #comment-icon {
     font-size: 50px;
 }
 
-/*------header-------*/
+/*header*/
 
 .navbar a {
     text-decoration: none;
@@ -36,7 +42,7 @@ a:hover {
     color:#87BBA2;
 }
 
-/*------padding and margins-------*/
+/*padding and margin*/
 .row {
     padding:0;
     margin:0;
@@ -60,7 +66,7 @@ h3 {
 }
 
 
-/*------external links-------*/
+/*external links*/
 
 a {
     text-decoration: none;
