@@ -45,15 +45,6 @@ img {
     vertical-align: text-bottom;
 }
 
-i {
-    line-height: 2rem;
-}
-
-
-#comment-icon {
-    font-size: 50px;
-}
-
 .navbar {
     position:absolute;
 }
@@ -90,15 +81,20 @@ a:hover {
     text-align: justify;
 }
 
+#comment-icon {
+    font-size: 2rem;
+}
 
 /*external links*/
 
 #social-image {
     line-height: 2rem;
+    font-size: 2rem;
     color: #C9E4CA;
 }
 
 #social-icon {
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: center;
+    padding-top: 2rem;
 }
