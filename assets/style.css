@@ -29,9 +29,20 @@ h2 {
     padding-bottom: 2rem;
 }
 
+h3 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
 a {
     text-decoration: none;
     color: #C9E4CA;
+}
+
+img {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    vertical-align: text-bottom;
 }
 
 /*fonts*/
