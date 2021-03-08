@@ -63,8 +63,9 @@ a:hover {
     padding:0;
     margin:0;
 }
+
 .about-section {
-    background-image: url(images/camping-pods.jpg); 
+    background-image: url(images/camping-pods.jpg);
     background-image: image-set(central); 
     background-repeat: no-repeat;
     background-size: cover;
@@ -72,7 +73,11 @@ a:hover {
     padding-top: 10rem;
     padding-bottom: 10rem;
 }
-
+@media screen (min-width:320px) and (max-width:480px) {
+    .about-section {
+       background: none
+    }
+}
 
 #welcome {
     background-color: #3B6064;
@@ -107,3 +112,4 @@ a:hover {
     color: #55828B;
     border: 0;
 }
+
