@@ -58,7 +58,7 @@ a:hover {
     color:#87BBA2;
 }
 
-/*padding and margin*/
+/*padding, margin and placement*/
 .row {
     padding:0;
     margin:0;
@@ -73,11 +73,6 @@ a:hover {
     padding-bottom: 10rem;
 }
 
-.about-section > h2 p {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-}
 
 #welcome {
     background-color: #3B6064;
@@ -105,4 +100,10 @@ a:hover {
     font-size: 2rem;
     text-align: center;
     padding-top: 2rem;
+}
+
+.btn-primary{
+    background-color:#87BBA2;
+    color: #55828B;
+    border: 0;
 }
