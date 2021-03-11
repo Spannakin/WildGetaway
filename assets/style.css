@@ -111,6 +111,11 @@ a:hover {
     padding-top: 2rem;
 }
 
+#review {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
 #address {
     text-align: center;
 }
