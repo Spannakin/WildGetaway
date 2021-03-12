@@ -65,8 +65,7 @@ a:hover {
 }
 
 .about-section {
-    background-image: url(images/camping-pods.jpg);
-    background-image: image-set(central); 
+    background-image: url(images/camping-pods.jpg); 
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -87,10 +86,6 @@ a:hover {
 
 .prices-section > p {
     text-align: justify;
-}
-
-#facilities-list{
-    text-align: centre;
 }
 
 .comment-icon {
