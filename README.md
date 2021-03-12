@@ -150,10 +150,18 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 * HTML
 * CSS
 
-* Libraries & Frameworks
-  * [Font Awesome](https://fontawesome.com/)
-  * [Google Fonts](https://fonts.google.com/)
-  * [Bootstrap](https://getbootstrap.com/)
+#### Libraries & Frameworks
+* [Font Awesome](https://fontawesome.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Bootstrap](https://getbootstrap.com/)
+
+#### Technologies
+
+* Git
+* GitPod
+* Balsamiq
+* W3C HTML Validation Service
+* W3C CSS Validadtion Service
 
 [Back to Top](#table-of-contents)
 
