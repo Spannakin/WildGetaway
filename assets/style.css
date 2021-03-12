@@ -93,25 +93,11 @@ a:hover {
     text-align: centre;
 }
 
-#comment-icon {
+.comment-icon {
     font-size: 2rem;
 }
 
-/*external links*/
-
-#social-image {
-    line-height: 2rem;
-    font-size: 2rem;
-    color: #C9E4CA;
-}
-
-#social-icon {
-    font-size: 2rem;
-    text-align: center;
-    padding-top: 2rem;
-}
-
-#review {
+.review {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
@@ -133,3 +119,17 @@ a:hover {
     padding-top:1.5rem;
     padding-bottom: 3rem;
 }
+/*external links*/
+
+#social-image {
+    line-height: 2rem;
+    font-size: 2rem;
+    color: #C9E4CA;
+}
+
+.social-icon {
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 2rem;
+}
+
