@@ -137,13 +137,18 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 [Back to Top](#table-of-contents)
 
 ### Features 
-* existing features  
-* features to be implemented
+
+#### Existing Features
+ 
+#### Features to be implemented
 
 [Back to Top](#table-of-contents)
 
 ### Technologies used
-* Languages
+#### Languages
+
+* HTML
+* CSS
 
 * Libraries & Frameworks
   * [Font Awesome](https://fontawesome.com/)
