@@ -69,8 +69,8 @@ a:hover {
 .about-section {
        background-image: none;
        position: relative;
-        padding-top: 10rem;
-        padding-bottom: 10rem;
+        padding-top: 5rem;
+        padding-bottom: 0rem;
     }
 
 .prices-section > p {
@@ -96,6 +96,13 @@ a:hover {
     background-color:#87BBA2;
     color: #3B6064;
     border: 0;
+}
+
+#logo {
+    font-family: "Amatic SC", sans-serif;
+    text-transform: uppercase;
+    font-size: 110%;
+    font-weight: 700;
 }
 
 #welcome {
@@ -134,5 +141,7 @@ a:hover {
     background-image: url(../images/camping-pods.jpg); 
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
     }
 }
