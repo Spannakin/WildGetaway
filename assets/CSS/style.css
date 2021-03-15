@@ -73,12 +73,6 @@ a:hover {
         padding-bottom: 10rem;
     }
 
-#welcome {
-    background-color: #3B6064;
-    padding-bottom: 0.5rem;
-    border: 1px;
-}
-
 .prices-section > p {
     text-align: justify;
 }
@@ -92,17 +86,30 @@ a:hover {
     padding-bottom: 1rem;
 }
 
+.social-icon {
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.btn-primary{
+    background-color:#87BBA2;
+    color: #3B6064;
+    border: 0;
+}
+
+#welcome {
+    background-color: #3B6064;
+    padding-bottom: 0.5rem;
+    border: 1px;
+}
+
 #address {
     text-align: center;
 }
 
 #phone {
     text-align: center;
-}
-.btn-primary{
-    background-color:#87BBA2;
-    color: #3B6064;
-    border: 0;
 }
 
 #contact-form {
@@ -117,11 +124,10 @@ a:hover {
     color: #C9E4CA;
 }
 
-.social-icon {
-    font-size: 2rem;
-    text-align: center;
-    padding-top: 2rem;
+#emailHelp {
+    color: #C9E4CA;
 }
+
 
 @media screen and (min-width: 480px) {
     .about-section {
