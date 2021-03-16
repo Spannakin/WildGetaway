@@ -180,6 +180,12 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 #### Features to be implemented
 
+* An interactive map of the location with a link to google maps.
+* Direct booking functionality to increase booking numbers.
+* Links to external partners such as local resaurants, cafes, museums and local shops.
+* A section with downloadable maps of walks from the site as well as walks and bike rides locally.
+* Relevant GDPR information.
+
 [Back to Top](#table-of-contents)
 
 ---
