@@ -188,11 +188,43 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
   * Implementation
 
+  I have created a section on the webpage for the user to find the contact information for the hioliday site, including the address and telephone number.
+  within this section I added a form element that is made up of two required firleds for their name and email as well as a text are for the user to express thier query to 
+  be summited directly to the holiday site.
+  
+  The contact section of the web page has a link in the navbar of the site so that the user can quickly access this are of the webpage.
+
   * Test
 
   * Result
 
   * Verdict
+
+** User Story: I want to see review and testimonials for the site **
+
+** User Story: I want there to be social media links that open in a access page **
+
+* Plan
+
+* Implementation
+
+*Test
+
+* Result
+
+* Verdict
+
+** User Story: I want clear information about the site facilities available and what I need to provide for myself **
+
+* Plan
+
+* Implementation
+
+*Test
+
+* Result
+
+* Verdict
 
 [Back to Top](#table-of-contents)
 
