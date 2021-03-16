@@ -85,6 +85,8 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 [Back to Top](#table-of-contents)
 
+---
+
 ### Design Choices
 * Overview
 
@@ -135,6 +137,8 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 [Back to Top](#table-of-contents)
 
+---
+
 ### Features 
 
 #### Existing Features
@@ -142,6 +146,8 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 #### Features to be implemented
 
 [Back to Top](#table-of-contents)
+
+---
 
 ### Technologies used
 #### Languages
@@ -165,9 +171,32 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 [Back to Top](#table-of-contents)
 
+---
+
 ### Testing
 
+#### Site Navigation
+   **User Story: As a user, I want to be able to easily access contact information for the hoiday site **
+
+   **User Story: As a user, I want to be able to contact the site directly from the website **
+
+  * Plan
+
+  To make the contact information for the information for the holiday site accessible through a section within the webpage and quickly accessible to the user
+  through a link in the fixed navigation panel. Within this section there will be a form where the user can send a message directly to the holiay site with their 
+  query.
+
+  * Implementation
+
+  * Test
+
+  * Result
+
+  * Verdict
+
 [Back to Top](#table-of-contents)
+
+---
 
 ### Deployment
 
@@ -186,6 +215,7 @@ To run the project locally:
 1. Use the **"git clone" command** and paste the url copied in the second step.
 [Back to Top](#table-of-contents)
 
+---
 
 ### Credits
 
