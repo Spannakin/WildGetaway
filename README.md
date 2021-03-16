@@ -192,9 +192,10 @@ Thank you for visiting my project, if you have ant questions or feedback please 
   within this section I added a form element that is made up of two required firleds for their name and email as well as a text are for the user to express thier query to 
   be summited directly to the holiday site.
   
-  The contact section of the web page has a link in the navbar of the site so that the user can quickly access this are of the webpage.
+  The contact section of the web page has a link in the navbar (which was implemented from Bootstrap) of the site so that the user can quickly access this are of the webpage.
 
   * Test
+  To test that the cob=ntact section was easliy accessible from the navbar I tested the links to ensure that it was working correctly.
 
   * Result
 
@@ -208,7 +209,7 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 * Implementation
 
-*Test
+* Test
 
 * Result
 
@@ -220,7 +221,7 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 * Implementation
 
-*Test
+* Test
 
 * Result
 
@@ -251,4 +252,8 @@ To run the project locally:
 
 ### Credits
 
+  * [iStockphoto](https://www.istockphoto.com/)
+  * Simen
+  * Family for testing and spell checking
+  
 [Back to Top](#table-of-contents)
