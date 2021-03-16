@@ -19,6 +19,7 @@ Thank you for visiting my project, if you have ant questions or feedback please 
     * [Features to be implemented](#features-to-be-implemented)
 * [Technologies used](#technologies-used)
 * [Testing](#testing)
+* [Bugs](#bugs)
 * [Deployment](#deployment)
 * [Credits](#credits)
 
