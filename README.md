@@ -274,18 +274,32 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 * Verdict
 
    The external links work as  expected and are easy for the user, the review section also mean that there are testamonials on the page for users to refer to, as well as external links to read different peoples reviews.
-   
+
 ** User Story: I want clear information about the site facilities available and what I need to provide for myself **
 
 * Plan
 
+  To create a section that lists the facilities available to guest on site and has inviting images to help them visualise their stay.
+
 * Implementation
+
+   I used Bootstrap to create a grid layout with three columns the two outer can be used for the images that highlight the look and feel of the site,
+   then the centre column hold the list of facilities. Underneath these there there is information about arrival and departure times, clearly visable 
+   for users, this is important when planning travel times for arrival and departure.
 
 * Test
 
+   All elements are clearly visable on all screen sizes, the layout changes for mobile view with images and text stacking rather than appearing side by side 
+   this ensures that the images and text don't end up cramped and negatively impacting UX.
+
 * Result
 
+   All elements are clearly visable on all screen sizes, the layout changes for mobile view with images and text stacking rather than appearing side by side 
+   this ensures that the images and text don't end up cramped and negatively impacting UX.
+
 * Verdict
+
+   All elements work as expected and are quickly accessible for the user.
 
 [Back to Top](#table-of-contents)
 
