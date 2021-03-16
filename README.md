@@ -155,18 +155,28 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 ##### Prices Section
 
-   For the Prices section I used a Bootstrap grid of 3 columns on larger screens and allowing them to be fill screen in mobile view. Below the 3 column row I used Bootstrap to add an offset column 
+   For the Prices section I used a Bootstrap grid of 3 columns on larger screens and allowing them to be full screen in mobile view. Below the 3 column row I used Bootstrap to add an offset column 
    with the checkout information in so that it was centralised on larger screen sizes helping the page to flow for good user experience.
 
 ##### Facilities Section
 
-   The Facilities section also utilised Bootraps 3 column grid on larger screen sizes with images of the holiday size on each side of list of the facilities available to guests staying on the site.
+   The Facilities section also utilised Bootraps 3 column grid on larger screen sizes with images of the holiday size on each side of list of the facilities available to guests staying on the site. 
+   This three column grid moves to full width on mobile view.
 
 ##### Reviews Section
 
-   
+   The reviews section uses Bootstrap grid with 2 columns in each row on larger screen sizes, expanding to full width on mobile view to prevent crowding. I n this sectio I also used fontawesome for the social media icons and 
+   comment bubbles, all of which are widely used in the indusrty and help reduce the amount of text needed to convey the message to users.
+
 ##### Local wildlife
+
+   This section contains two images that I used Bootstrap to centralise so that on larger screen sizes the flow of the site was maintaines wilst on mobile view they take up the whole screen.
+   The images sandwich the text taht helps users understand what the local wildlife is like and when the best time of the year is to visit for different types.
+
 ##### Contact Section
+
+   This section utisises Bootstrap for both the grid to ensure a uniform appearance for the site but also for the form element. The upper part of this section has the address and telephone deatils and below this is the form 
+   element where the user can fill in their details so that Wild Getaways can responde to their query directly.
 
 #### Features to be implemented
 
