@@ -306,6 +306,9 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 ---
 ### Bugs
 
+#### Hero image
+
+#### Contact Form
 [Back to Top](#table-of-contents)
 
 ---
