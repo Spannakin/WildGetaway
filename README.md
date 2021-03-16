@@ -308,7 +308,15 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 #### Hero image
 
+   When initially designing the website I had intended for all screen sizes to use a hero image in the background of the welcome section, during the trialing of the page I found that the background image 
+   whilst visually appealing on tablets and laptop scrrens was too busy for a mobile screen. This detracted from the user expreience as such a media query was added that meand that the background is kept clean 
+   on small screen sizes and the hero image is only visable on tablet and laptops where it retains it's appeal and add to the feel of the webpage.
+
 #### Contact Form
+
+   I initially made the cotact form using two rows which led to it behaving in ways that would have been confusing to the user it also meant that the rows were slightly out of line with eachother and looked 
+   messy on all screen sizes. After a chat with my mentor i realised my error and re-made the from using pne row and leading to a much tidier end product.
+   
 [Back to Top](#table-of-contents)
 
 ---
