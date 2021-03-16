@@ -236,17 +236,24 @@ Thank you for visiting my project, if you have ant questions or feedback please 
   The contact section of the web page has a link in the navbar (which was implemented from Bootstrap) of the site so that the user can quickly access this are of the webpage.
 
   * Test
-  To test that the cob=ntact section was easliy accessible from the navbar I tested the links to ensure that it was working correctly.
+
+  To test that the contact section was easliy accessible from the navbar I tested the links to ensure that it was working correctly.
 
   * Result
 
+  The navbar links all work and take the user to the section that they need.
+
   * Verdict
+
+  The navbar functions correctly meaning that the user can quickly find the contact information, in this section they can also use the form to directly contact the camp site with their query.
+  As such the user can qickly find contact information with the option of submitting a query on the site or using the phone number provided to call with any questions. 
 
 ** User Story: I want to see review and testimonials for the site **
 
 ** User Story: I want there to be social media links that open in a access page **
 
 * Plan
+
 
 * Implementation
 
@@ -267,6 +274,11 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 * Result
 
 * Verdict
+
+[Back to Top](#table-of-contents)
+
+---
+### Bugs
 
 [Back to Top](#table-of-contents)
 
