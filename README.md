@@ -255,15 +255,26 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 * Plan
 
+   Reviews are an essential part to helping users understand what the camp site as to offer so in this section there will be a small number of reviews from previous guests visable directly on the webpage 
+   then there will be social media links to public review sites such as Trip Advisor and Facebook where the users can undertake further research if they require.
 
 * Implementation
 
+   I created this section of the website with Bootstrap to create a grid containing four testamonials from previous guests. I then made a row with the social media links using icons from fontaewsome as is industry standard 
+   and ensured that these links opened in a new window so that the user doesn't loose the site.
+
 * Test
+
+   I tested that all the external links worked as required opening in a new window, I tested this on chrome, mozilla and safari to check that this function worked in different browsers.
 
 * Result
 
+   All the links opened in new windows meaning that returning to the web page is easy for the user.
+
 * Verdict
 
+   The external links work as  expected and are easy for the user, the review section also mean that there are testamonials on the page for users to refer to, as well as external links to read different peoples reviews.
+   
 ** User Story: I want clear information about the site facilities available and what I need to provide for myself **
 
 * Plan
