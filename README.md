@@ -142,7 +142,32 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 ### Features 
 
 #### Existing Features
- 
+
+##### Navigation Bar
+
+   I used Bootstrap to implement a navbar which was fixed to the top of the screen, the links all work to quickly direct users to
+    different elements of the webpage so that they can find the information that they are looking for without scrolling through the whole of the page.
+
+##### Welcome Section
+
+   In this section I wanted the user to get a quick introduction to what "Wild Getaways" had to offer, for this the mobile version has a plain background whilst on larger screen sizes there is a 
+   background image. This is a design decision as on a mobile screen it looked too cluttered, so keeping the background plain on a smaller screen size kept the user experience cleaner.
+
+##### Prices Section
+
+   For the Prices section I used a Bootstrap grid of 3 columns on larger screens and allowing them to be fill screen in mobile view. Below the 3 column row I used Bootstrap to add an offset column 
+   with the checkout information in so that it was centralised on larger screen sizes helping the page to flow for good user experience.
+
+##### Facilities Section
+
+   The Facilities section also utilised Bootraps 3 column grid on larger screen sizes with images of the holiday size on each side of list of the facilities available to guests staying on the site.
+
+##### Reviews Section
+
+   
+##### Local wildlife
+##### Contact Section
+
 #### Features to be implemented
 
 [Back to Top](#table-of-contents)
@@ -255,5 +280,5 @@ To run the project locally:
   * [iStockphoto](https://www.istockphoto.com/)
   * Simen
   * Family for testing and spell checking
-  
+
 [Back to Top](#table-of-contents)
