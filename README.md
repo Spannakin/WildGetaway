@@ -325,18 +325,21 @@ Thank you for visiting my project, if you have any questions or feedback please 
 
 This project was deployed via GitHub by executing the following steps.
 After writing the code, committing and pushing it to GitHub:
-1. Navigate to the repository on github and click **Settings**.
-1. From there, go to the **Source section** within the Github Pages section.
-1. Select **master branch** on the dropdown menu, and click save.
-1. Now the website is live on **https://spannakin.github.io/WildGetaway/**
-1. Any time commits and pushes are sent to Github, the Github Pages site should update shortly after.
-
-To run the project locally:
+* Navigate to the repository on github and click **Settings**.
+* From there, go to the **Source section** within the Github Pages section.
+* Select **master branch** on the dropdown menu, and click save.
+* Now the website is live on:
+```
+https://yourgithubusername.github.io/your-repo-name
+```
+* Any time commits and pushes are sent to Github, the Github Pages site should update shortly after.
+### **To run the project locally:**
 1. Click the **green Clone or Download button** on the Github Repository
 1. Using the **Clone with HTTPS option**, copy the link displayed.
 1. Open your IDE, and ensure the Git Terminal is open.
 1. Change the working directory to the location where the cloned directory is to go.
 1. Use the **"git clone" command** and paste the url copied in the second step.
+
 
 [Back to Top](#table-of-contents)
 
