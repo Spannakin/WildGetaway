@@ -347,8 +347,10 @@ https://yourgithubusername.github.io/your-repo-name
 
 ### Credits
 
-  * [iStockphoto](https://www.istockphoto.com/)
-  * Simen
-  * Family for testing and spell checking
+  * Photos used in this site were sourced from [iStockphoto](https://www.istockphoto.com/) to ensure that no copyrights were breached.
+
+  * I would like to thank Simen [Eventyret_mentor](https://github.com/Eventyret) for his help and support during this project- my first attemt at writting code and building a webpage. He has helped me build confidnce in myself that 
+  I will learn to be a better coder through making mistakes and learning from them.
+  *  I aslo want to thank my family for testing and spell checking, proofing and generally putting up with me!
 
 [Back to Top](#table-of-contents)
