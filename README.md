@@ -1,8 +1,8 @@
 # Wild Getaway
 Book your Wild Get Away! Take some time out and embrace nature, stay in one of our luxury Camping Pods and get away for a short break in the wild.
-On this site you can find all the information you need to make a booking and find relevent visitor information.
+On this site you can find all the information you need to make a booking and find relevant visitor information.
 
-Thank you for visiting my project, if you have ant questions or feedback please head over to my Github contacts and get in touch.
+Thank you for visiting my project, if you have any questions or feedback please head over to my Github contacts and get in touch.
 
 ---
 ## Table of contents 
@@ -30,10 +30,10 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 ### Site Owner Goals
 * To advertise site and facilities available
-* Relevent content about the holiday site
+* Relevant content about the holiday site
 * Easy way for visitors to contact the holiday site
-* Clear information on pricing and booking relevent policies for stays
-* Appealing visiual elements
+* Clear information on pricing and booking relevant policies for stays
+* Appealing visual elements
 * links to review sites and social media to engage with audience
 * link for email sign up
 
@@ -91,30 +91,30 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 ### Design Choices
 * Overview
 
-   As this site is for a Pod campsite in a rural location the colour scheme and visuals have been chosen to reflect a more narual palette, keeping a more rustic aesthetic.  
+   As this site is for a Pod campsite in a rural location the colour scheme and visuals have been chosen to reflect a more natural palette, keeping a more rustic aesthetic.  
 
 * Fonts
 
-   To choose the appropriate fints for this project I visited [Google Fonts](https://fonts.google.com/) and browsed the various fonts available.
+   To choose the appropriate fonts for this project I visited [Google Fonts](https://fonts.google.com/) and browsed the various fonts available.
    for the main content of the page I chose [Lato](https://fonts.google.com/?sort=popularity&preview.text=Wild%20Getaway!&preview.text_type=custom&sidebar.open=true&selection.family=Amatic+SC:wght@400;700&query=lato)
    as it is a clear and easy to read font, making the page easily accessible for users. I chose [Amatic SC](https://fonts.google.com/specimen/Amatic+SC?sort=popularity&category=Handwriting&preview.text=Wild%20Getaway!&preview.text_type=custom&sidebar.open=true&selection.family=Amatic+SC:wght@400;700)
    for the titles and subtitles as it is a handwriting style font to give the page a more natural feel and to add a more personal touch.   
 
 * Icons
 
-   I used icons from the [Font Awesome library](https://fontawesome.com/ "Font Awesome") the icons I chose are inline with the over all feel for the site and are gneral industry standard.
-   The icons have been selected so as not to stand out from the site but to add to the overall eas of use for the user enabling intuitve navigation.
+   I used icons from the [Font Awesome library](https://fontawesome.com/ "Font Awesome") the icons I chose are inline with the over all feel for the site and are general industry standard.
+   The icons have been selected so as not to stand out from the site but to add to the overall ease of use for the user enabling intuitive navigation.
    
-* Colors
+* Colours
 
-   The color scheme has been chosen to reflect the natural environment that the Pod campsite is situated in, the chosen colors can be view below.   
-   Below I will explain why each color was chosen and what they will be used for.   
+   The colour scheme has been chosen to reflect the natural environment that the Pod campsite is situated in, the chosen colours can be view below.   
+   Below I will explain why each colour was chosen and what they will be used for.   
 
 ![Color Palette](wireframes/color-scheme.png)
 
   * #364958 will be used for the header and footer elements this charcoal color has been chosen to represent the night sky as the Pod site is situated within an international dark sky reserve.
   * #3B6064 will be used as the main back ground color for the website. This dark teal color has been chosen to represent the forests that are local to the holiday site.
-  * #87BBA2 will be used for the call to action buttons on the website as well as the contact form, this light green tone has been selected for its closenesss to the mpprland grasses in the local landscape.
+  * #87BBA2 will be used for the call to action buttons on the website as well as the contact form, this light green tone has been selected for its closeness to the moorland grasses in the local landscape.
   * #C9E4CA text color
   * #55828B additional background color
 
@@ -123,9 +123,9 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 ### Wireframes
 
-   I decided to use [Balamiq Wrieframes](https://balsamiq.com/) to create my wireframes, starting with a basic wireframe for the desktop, them moved 
+   I decided to use [Balamiq Wireframes](https://balsamiq.com/) to create my wireframes, starting with a basic wireframe for the desktop, them moved 
    on to the tablet and mobile wireframes, to get and idea of how I wanted the layout to work at different media points. I decided to utilise a one page
-   sebsite for this project as this is widely used in the tourism industry for ease of use for the user. The website will also use a navigation bar to
+   website for this project as this is widely used in the tourism industry for ease of use for the user. The website will also use a navigation bar to
    make quick access available for users looking for particular information rather than having to scroll every time.
 
    Wireframes can be view on the following links:
@@ -161,23 +161,23 @@ Thank you for visiting my project, if you have ant questions or feedback please 
 
 ##### Facilities Section
 
-   The Facilities section also utilised Bootraps 3 column grid on larger screen sizes with images of the holiday size on each side of list of the facilities available to guests staying on the site. 
+   The Facilities section also utilised Bootstraps 3 column grid on larger screen sizes with images of the holiday size on each side of list of the facilities available to guests staying on the site. 
    This three column grid moves to full width on mobile view.
 
 ##### Reviews Section
 
    The reviews section uses Bootstrap grid with 2 columns in each row on larger screen sizes, expanding to full width on mobile view to prevent crowding. I n this sectio I also used fontawesome for the social media icons and 
-   comment bubbles, all of which are widely used in the indusrty and help reduce the amount of text needed to convey the message to users.
+   comment bubbles, all of which are widely used in the industry and help reduce the amount of text needed to convey the message to users.
 
 ##### Local wildlife
 
-   This section contains two images that I used Bootstrap to centralise so that on larger screen sizes the flow of the site was maintaines wilst on mobile view they take up the whole screen.
-   The images sandwich the text taht helps users understand what the local wildlife is like and when the best time of the year is to visit for different types.
+   This section contains two images that I used Bootstrap to centralise so that on larger screen sizes the flow of the site was maintained whilst on mobile view they take up the whole screen.
+   The images sandwich the text that helps users understand what the local wildlife is like and when the best time of the year is to visit for different types.
 
 ##### Contact Section
 
-   This section utisises Bootstrap for both the grid to ensure a uniform appearance for the site but also for the form element. The upper part of this section has the address and telephone deatils and below this is the form 
-   element where the user can fill in their details so that Wild Getaways can responde to their query directly.
+   This section utilises Bootstrap for both the grid, to ensure a uniform appearance for the site, but also for the form element. The upper part of this section has the address and telephone details and below this is the form 
+   element where the user can fill in their details so that Wild Getaways can respond to their query directly.
 
 #### Features to be implemented
 
