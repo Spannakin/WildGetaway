@@ -183,7 +183,7 @@ Thank you for visiting my project, if you have any questions or feedback please 
 
 * An interactive map of the location with a link to google maps.
 * Direct booking functionality to increase booking numbers.
-* Links to external partners such as local resaurants, cafes, museums and local shops.
+* Links to external partners such as local restaurants, cafes, museums and local shops.
 * A section with downloadable maps of walks from the site as well as walks and bike rides locally.
 * Relevant GDPR information.
 
@@ -209,7 +209,7 @@ Thank you for visiting my project, if you have any questions or feedback please 
 * [GitPod] (https://github.com/)
 * Balsamiq
 * W3C HTML Validation Service
-* W3C CSS Validadtion Service
+* W3C CSS Validation Service
 
 [Back to Top](#table-of-contents)
 
@@ -218,27 +218,27 @@ Thank you for visiting my project, if you have any questions or feedback please 
 ### Testing
 
 #### Site Navigation
-   **User Story: As a user, I want to be able to easily access contact information for the hoiday site **
+   **User Story: As a user, I want to be able to easily access contact information for the holiday site **
 
    **User Story: As a user, I want to be able to contact the site directly from the website **
 
   * Plan
 
   To make the contact information for the information for the holiday site accessible through a section within the webpage and quickly accessible to the user
-  through a link in the fixed navigation panel. Within this section there will be a form where the user can send a message directly to the holiay site with their 
+  through a link in the fixed navigation panel. Within this section there will be a form where the user can send a message directly to the holiday site with their 
   query.
 
   * Implementation
 
-  I have created a section on the webpage for the user to find the contact information for the hioliday site, including the address and telephone number.
-  within this section I added a form element that is made up of two required firleds for their name and email as well as a text are for the user to express thier query to 
-  be summited directly to the holiday site.
+  I have created a section on the webpage for the user to find the contact information for the holiday site, including the address and telephone number.
+  within this section I added a form element that is made up of two required fields for their name and email as well as a text are for the user to express their query to 
+  be submmited directly to the holiday site.
   
   The contact section of the web page has a link in the navbar (which was implemented from Bootstrap) of the site so that the user can quickly access this are of the webpage.
 
   * Test
 
-  To test that the contact section was easliy accessible from the navbar I tested the links to ensure that it was working correctly.
+  To test that the contact section was easily accessible from the navbar I tested the links to ensure that it was working correctly.
 
   * Result
 
@@ -247,7 +247,7 @@ Thank you for visiting my project, if you have any questions or feedback please 
   * Verdict
 
   The navbar functions correctly meaning that the user can quickly find the contact information, in this section they can also use the form to directly contact the camp site with their query.
-  As such the user can qickly find contact information with the option of submitting a query on the site or using the phone number provided to call with any questions. 
+  As such the user can quickly find contact information with the option of submitting a query on the site or using the phone number provided to call with any questions. 
 
 ** User Story: I want to see review and testimonials for the site **
 
@@ -255,12 +255,12 @@ Thank you for visiting my project, if you have any questions or feedback please 
 
 * Plan
 
-   Reviews are an essential part to helping users understand what the camp site as to offer so in this section there will be a small number of reviews from previous guests visable directly on the webpage 
+   Reviews are an essential part to helping users understand what the camp site as to offer so in this section there will be a small number of reviews from previous guests visible directly on the webpage 
    then there will be social media links to public review sites such as Trip Advisor and Facebook where the users can undertake further research if they require.
 
 * Implementation
 
-   I created this section of the website with Bootstrap to create a grid containing four testamonials from previous guests. I then made a row with the social media links using icons from fontaewsome as is industry standard 
+   I created this section of the website with Bootstrap to create a grid containing four testimonials from previous guests. I then made a row with the social media links using icons from fontawesome as is industry standard 
    and ensured that these links opened in a new window so that the user doesn't loose the site.
 
 * Test
@@ -273,7 +273,7 @@ Thank you for visiting my project, if you have any questions or feedback please 
 
 * Verdict
 
-   The external links work as  expected and are easy for the user, the review section also mean that there are testamonials on the page for users to refer to, as well as external links to read different peoples reviews.
+   The external links work as  expected and are easy for the user, the review section also mean that there are testimonials on the page for users to refer to, as well as external links to read different peoples reviews.
 
 ** User Story: I want clear information about the site facilities available and what I need to provide for myself **
 
@@ -284,17 +284,17 @@ Thank you for visiting my project, if you have any questions or feedback please 
 * Implementation
 
    I used Bootstrap to create a grid layout with three columns the two outer can be used for the images that highlight the look and feel of the site,
-   then the centre column hold the list of facilities. Underneath these there there is information about arrival and departure times, clearly visable 
+   then the centre column hold the list of facilities. Underneath these there is information about arrival and departure times, clearly visible 
    for users, this is important when planning travel times for arrival and departure.
 
 * Test
 
-   All elements are clearly visable on all screen sizes, the layout changes for mobile view with images and text stacking rather than appearing side by side 
+   All elements are clearly visible on all screen sizes, the layout changes for mobile view with images and text stacking rather than appearing side by side 
    this ensures that the images and text don't end up cramped and negatively impacting UX.
 
 * Result
 
-   All elements are clearly visable on all screen sizes, the layout changes for mobile view with images and text stacking rather than appearing side by side 
+   All elements are clearly visible on all screen sizes, the layout changes for mobile view with images and text stacking rather than appearing side by side 
    this ensures that the images and text don't end up cramped and negatively impacting UX.
 
 * Verdict
@@ -308,14 +308,14 @@ Thank you for visiting my project, if you have any questions or feedback please 
 
 #### Hero image
 
-   When initially designing the website I had intended for all screen sizes to use a hero image in the background of the welcome section, during the trialing of the page I found that the background image 
-   whilst visually appealing on tablets and laptop scrrens was too busy for a mobile screen. This detracted from the user expreience as such a media query was added that meand that the background is kept clean 
-   on small screen sizes and the hero image is only visable on tablet and laptops where it retains it's appeal and add to the feel of the webpage.
+   When initially designing the website I had intended for all screen sizes to use a hero image in the background of the welcome section, during the trialling of the page I found that the background image 
+   whilst visually appealing on tablets and laptop screens was too busy for a mobile screen. This detracted from the UX, as such a media query was added that means that the background is kept clean 
+   on small screen sizes and the hero image is only visible on tablet and laptops where it retains its appeal and add to the feel of the webpage.
 
 #### Contact Form
 
-   I initially made the cotact form using two rows which led to it behaving in ways that would have been confusing to the user it also meant that the rows were slightly out of line with eachother and looked 
-   messy on all screen sizes. After a chat with my mentor i realised my error and re-made the from using pne row and leading to a much tidier end product.
+   I initially made the contact form using two rows which led to it behaving in ways that would have been confusing to the user it also meant that the rows were slightly out of line with each other and looked 
+   messy on all screen sizes. After a chat with my mentor I realised my error and re-made the from using one row and leading to a much tidier end product.
 
 [Back to Top](#table-of-contents)
 
