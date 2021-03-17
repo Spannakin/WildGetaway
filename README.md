@@ -218,40 +218,40 @@ Thank you for visiting my project, if you have any questions or feedback please 
 ### Testing
 
 #### Site Navigation
-   **User Story: As a user, I want to be able to easily access contact information for the holiday site **
+   __User Story: As a user, I want to be able to easily access contact information for the holiday site__
 
-   **User Story: As a user, I want to be able to contact the site directly from the website **
+   __User Story: As a user, I want to be able to contact the site directly from the website__
 
   * Plan
 
-  To make the contact information for the information for the holiday site accessible through a section within the webpage and quickly accessible to the user
-  through a link in the fixed navigation panel. Within this section there will be a form where the user can send a message directly to the holiday site with their 
-  query.
+     To make the contact information for the information for the holiday site accessible through a section within the webpage and quickly accessible to the user
+     through a link in the fixed navigation panel. Within this section there will be a form where the user can send a message directly to the holiday site with their 
+     query.
 
   * Implementation
 
-  I have created a section on the webpage for the user to find the contact information for the holiday site, including the address and telephone number.
-  within this section I added a form element that is made up of two required fields for their name and email as well as a text are for the user to express their query to 
-  be submmited directly to the holiday site.
+     I have created a section on the webpage for the user to find the contact information for the holiday site, including the address and telephone number.
+     within this section I added a form element that is made up of two required fields for their name and email as well as a text are for the user to express their query to 
+     be submmited directly to the holiday site.
   
-  The contact section of the web page has a link in the navbar (which was implemented from Bootstrap) of the site so that the user can quickly access this are of the webpage.
+     The contact section of the web page has a link in the navbar (which was implemented from Bootstrap) of the site so that the user can quickly access this are of the webpage.
 
   * Test
 
-  To test that the contact section was easily accessible from the navbar I tested the links to ensure that it was working correctly.
+     To test that the contact section was easily accessible from the navbar I tested the links to ensure that it was working correctly.
 
   * Result
 
-  The navbar links all work and take the user to the section that they need.
+     The navbar links all work and take the user to the section that they need.
 
   * Verdict
 
-  The navbar functions correctly meaning that the user can quickly find the contact information, in this section they can also use the form to directly contact the camp site with their query.
-  As such the user can quickly find contact information with the option of submitting a query on the site or using the phone number provided to call with any questions. 
+     The navbar functions correctly meaning that the user can quickly find the contact information, in this section they can also use the form to directly contact the camp site with their query.
+     As such the user can quickly find contact information with the option of submitting a query on the site or using the phone number provided to call with any questions. 
 
-** User Story: I want to see review and testimonials for the site **
+   __User Story: I want to see review and testimonials for the site__
 
-** User Story: I want there to be social media links that open in a access page **
+   __User Story: I want there to be social media links that open in a access page__
 
 * Plan
 
@@ -275,7 +275,7 @@ Thank you for visiting my project, if you have any questions or feedback please 
 
    The external links work as  expected and are easy for the user, the review section also mean that there are testimonials on the page for users to refer to, as well as external links to read different peoples reviews.
 
-** User Story: I want clear information about the site facilities available and what I need to provide for myself **
+   __User Story: I want clear information about the site facilities available and what I need to provide for myself__
 
 * Plan
 
